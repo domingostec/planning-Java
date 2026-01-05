@@ -23,8 +23,8 @@ Este repositório serve como base de estudos e evolução no desenvolvimento bac
 ---
 
 ## 📂 Estrutura do projeto
-planning-Java/
-    ├── src/main/java/com/planning/   # Código fonte principal
-      ├── pom.xml                        # Configuração do Maven
-        ├── .gitignore                    # Arquivos ignorados pelo Git
-          ├── HELP.md                        # Documentação auxiliar
+## planning-Java/
+    - ├── src/main/java/com/planning/   # Código fonte principal
+         -├── pom.xml                        # Configuração do Maven
+            -├── .gitignore                    # Arquivos ignorados pelo Git
+              -├── HELP.md                        # Documentação auxiliar
